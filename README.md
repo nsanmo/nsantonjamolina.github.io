@@ -1,8 +1,6 @@
 # nsanmo.github.io
 
-¡Por supuesto! Aquí tienes un ejemplo de un README para un repositorio de GitHub:
 
-```markdown
 # Proyecto Increíble
 
 ¡Bienvenido a nuestro Proyecto Increíble!
@@ -50,5 +48,3 @@ Este proyecto está bajo la Licencia [Nombre de la Licencia]. Mira el archivo `L
 
 **¡Gracias por contribuir al Proyecto Increíble!** ¡Esperamos que disfrutes explorando y utilizando esta increíble creación!
 ```
-
-Recuerda personalizar la información según las necesidades específicas de tu proyecto. ¡Espero que encuentres útil este ejemplo para tu README en GitHub!
