@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Conectores informáticos
 
 Son conectores, también llamados puertos, que transmiten información entre el dispositivo y el computador. Pueden contener cables para la alimentación eléctrica.
