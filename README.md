@@ -48,3 +48,4 @@ Este proyecto está bajo la Licencia [Nombre de la Licencia]. Mira el archivo `L
 
 **¡Gracias por contribuir al Proyecto Increíble!** ¡Esperamos que disfrutes explorando y utilizando esta increíble creación!
 ```
+[Conectores] [MME/ud2/conectores.md](https://github.com/nsanmo/nsanmo.github.io/blob/c5c310c8be01298d2d049fa355b3847ccc0d54fc/MME/ud2/conectores.md)https://github.com/nsanmo/nsanmo.github.io/blob/c5c310c8be01298d2d049fa355b3847ccc0d54fc/MME/ud2/conectores.md
