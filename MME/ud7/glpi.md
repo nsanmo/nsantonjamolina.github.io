@@ -1,3 +1,4 @@
+# hola #
 GLPI és una ferramenta per a la gestió dels serveis d’IT. Permetrà dur el control dels actius que tenim a l’empresa. Separar-los per ubicació, asignar-los a usuaris i indicar qualsevol incidència relacionada.
 
 Segueix els següents passos, il·lustra amb una captura quan ho veges necessari.
